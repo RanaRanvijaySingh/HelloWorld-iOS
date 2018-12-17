@@ -1,0 +1,6 @@
+framework module Pods_SampleCI_CDProjectTests {
+  umbrella header "Pods-SampleCI_CDProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
